@@ -1,2 +1,3 @@
 # library-cpn
-library
+
+Library modeled using Coloured Petri Nets in CPN Tools
