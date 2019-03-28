@@ -123,15 +123,15 @@
                  h="62.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="-14.000000"
-                 y="0.000000"
+        <marking x="-87.750000"
+                 y="87.500000"
                  hidden="false">
-          <snap snap_id="1"
-                anchor.horizontal="2"
+          <snap snap_id="0"
+                anchor.horizontal="3"
                 anchor.vertical="2"/>
         </marking>
         <type id="ID1412327902">
-          <posattr x="-547.000000"
+          <posattr x="-544.500000"
                    y="835.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -142,11 +142,11 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">STRING</text>
+                version="4.0.1">LIBRARY</text>
         </type>
         <initmark id="ID1412679108">
-          <posattr x="-538.000000"
-                   y="898.000000"/>
+          <posattr x="-476.500000"
+                   y="919.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -156,7 +156,10 @@
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1"/>
+                version="4.0.1">1` [ &quot;Akademia Pana Kleksa&quot;,
+&quot;Dzuma&quot;, &quot;Ksiaze&quot;,
+&quot;Maly Ksiaze&quot;, &quot;Medaliony&quot;,
+&quot;Dlatego zyjemy&quot; ]</text>
         </initmark>
       </place>
       <place id="ID1412331916">
@@ -388,12 +391,12 @@ specified book</text>
                  h="64.000000"/>
         <token x="-10.000000"
                y="0.000000"/>
-        <marking x="0.000000"
+        <marking x="-14.000000"
                  y="0.000000"
                  hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
+          <snap snap_id="1"
+                anchor.horizontal="1"
+                anchor.vertical="2"/>
         </marking>
         <type id="ID1412336404">
           <posattr x="-262.500000"
@@ -573,322 +576,6 @@ specified book</text>
         <initmark id="ID1412588532">
           <posattr x="-538.000000"
                    y="514.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </initmark>
-      </place>
-      <place id="ID1412679393">
-        <posattr x="-504.000000"
-                 y="-42.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>AVAILABLE BOOKS</text>
-        <ellipse w="144.000000"
-                 h="60.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="-34.000000"
-                 y="49.000000"
-                 hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="3"
-                anchor.vertical="2"/>
-        </marking>
-        <type id="ID1412679394">
-          <posattr x="-424.500000"
-                   y="-73.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">LIBRARY</text>
-        </type>
-        <initmark id="ID1412700856">
-          <posattr x="-360.500000"
-                   y="11.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`[&quot;Akademia Pana Kleksa&quot;,
-&quot;Dlatego zyjemy&quot;,
-&quot;Dzuma&quot;,
-&quot;Ksiaze&quot;]</text>
-        </initmark>
-      </place>
-      <place id="ID1412679688">
-        <posattr x="-157.000000"
-                 y="236.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Client</text>
-        <ellipse w="60.000000"
-                 h="40.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="0.000000"
-                 y="0.000000"
-                 hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
-        </marking>
-        <type id="ID1412679689">
-          <posattr x="-109.000000"
-                   y="212.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">STRING</text>
-        </type>
-        <initmark id="ID1412679690">
-          <posattr x="-101.500000"
-                   y="259.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">2`&quot;Mefiu&quot;</text>
-        </initmark>
-      </place>
-      <place id="ID1412679814">
-        <posattr x="13.000000"
-                 y="104.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>List of books</text>
-        <ellipse w="102.000000"
-                 h="40.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="-14.000000"
-                 y="0.000000"
-                 hidden="false">
-          <snap snap_id="1"
-                anchor.horizontal="1"
-                anchor.vertical="3"/>
-        </marking>
-        <type id="ID1412679815">
-          <posattr x="74.000000"
-                   y="80.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">STRING</text>
-        </type>
-        <initmark id="ID1412727408">
-          <posattr x="108.000000"
-                   y="134.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`&quot;Dzuma&quot;++
-1`&quot;Do rezerwacji&quot;</text>
-        </initmark>
-      </place>
-      <place id="ID1412683392">
-        <posattr x="-66.000000"
-                 y="-391.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Book reserved</text>
-        <ellipse w="128.000000"
-                 h="40.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="0.000000"
-                 y="0.000000"
-                 hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
-        </marking>
-        <type id="ID1412683393">
-          <posattr x="18.500000"
-                   y="-414.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">clientxbook</text>
-        </type>
-        <initmark id="ID1412683394">
-          <posattr x="15.000000"
-                   y="-367.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </initmark>
-      </place>
-      <place id="ID1412683559">
-        <posattr x="-308.000000"
-                 y="-394.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Book grabbed</text>
-        <ellipse w="110.000000"
-                 h="40.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="0.000000"
-                 y="0.000000"
-                 hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
-        </marking>
-        <type id="ID1412683560">
-          <posattr x="-230.500000"
-                   y="-417.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">clientxbook</text>
-        </type>
-        <initmark id="ID1412683561">
-          <posattr x="-234.000000"
-                   y="-370.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </initmark>
-      </place>
-      <place id="ID1412686756">
-        <posattr x="-157.000000"
-                 y="-53.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Book is chosen</text>
-        <ellipse w="122.000000"
-                 h="40.000000"/>
-        <token x="-10.000000"
-               y="0.000000"/>
-        <marking x="0.000000"
-                 y="0.000000"
-                 hidden="false">
-          <snap snap_id="0"
-                anchor.horizontal="0"
-                anchor.vertical="0"/>
-        </marking>
-        <type id="ID1412686757">
-          <posattr x="-75.500000"
-                   y="-76.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">clientxbook</text>
-        </type>
-        <initmark id="ID1412686758">
-          <posattr x="-79.000000"
-                   y="-29.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1347,186 +1034,6 @@ his book</text>
                 version="4.0.1"/>
         </priority>
       </trans>
-      <trans id="ID1412680333"
-             explicit="false">
-        <posattr x="-157.000000"
-                 y="104.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Want book</text>
-        <box w="82.000000"
-             h="40.000000"/>
-        <binding x="7.200000"
-                 y="-3.000000"/>
-        <cond id="ID1412680334">
-          <posattr x="-207.000000"
-                   y="135.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </cond>
-        <time id="ID1412680335">
-          <posattr x="-101.500000"
-                   y="135.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </time>
-        <code id="ID1412680336">
-          <posattr x="-81.500000"
-                   y="52.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </code>
-        <priority id="ID1412680338">
-          <posattr x="-236.000000"
-                   y="73.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </priority>
-      </trans>
-      <trans id="ID1412681817"
-             explicit="false">
-        <posattr x="-157.000000"
-                 y="-195.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <text>Check if book is available</text>
-        <box w="186.000000"
-             h="40.000000"/>
-        <binding x="7.200000"
-                 y="-3.000000"/>
-        <cond id="ID1412681818">
-          <posattr x="-259.000000"
-                   y="-164.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </cond>
-        <time id="ID1412681819">
-          <posattr x="-49.500000"
-                   y="-164.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </time>
-        <code id="ID1412681820">
-          <posattr x="-29.500000"
-                   y="-247.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </code>
-        <priority id="ID1412681822">
-          <posattr x="-288.000000"
-                   y="-226.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1"/>
-        </priority>
-      </trans>
-      <arc id="ID1412342675"
-           orientation="PtoT"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412327814"/>
-        <placeend idref="ID1412327901"/>
-        <annot id="ID1412342676">
-          <posattr x="-371.500000"
-                   y="744.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`book</text>
-        </annot>
-      </arc>
       <arc id="ID1412345175"
            orientation="TtoP"
            order="1">
@@ -1719,38 +1226,6 @@ his book</text>
                 version="4.0.1">(client,book)</text>
         </annot>
       </arc>
-      <arc id="ID1412487170"
-           orientation="TtoP"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412482300"/>
-        <placeend idref="ID1412327901"/>
-        <annot id="ID1412487171">
-          <posattr x="-353.000000"
-                   y="856.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">book</text>
-        </annot>
-      </arc>
       <arc id="ID1412507277"
            orientation="TtoP"
            order="1">
@@ -1833,8 +1308,8 @@ his book</text>
         <transend idref="ID1412507818"/>
         <placeend idref="ID1412336403"/>
         <annot id="ID1412510795">
-          <posattr x="49.000000"
-                   y="507.000000"/>
+          <posattr x="43.000000"
+                   y="457.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1844,9 +1319,9 @@ his book</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">if Present(decision)
-then empty
-else 1`(client,book)</text>
+                version="4.0.1">if (mem available_books book)
+then 1`(client,book)
+else empty</text>
         </annot>
       </arc>
       <arc id="ID1412510932"
@@ -1881,51 +1356,6 @@ else 1`(client,book)</text>
                 version="4.0.1">(client,book)</text>
         </annot>
       </arc>
-      <arc id="ID1412515316"
-           orientation="BOTHDIR"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412507818"/>
-        <placeend idref="ID1412327901"/>
-        <bendpoint id="ID1412515747"
-                   serial="1">
-          <posattr x="-294.000000"
-                   y="732.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-        </bendpoint>
-        <annot id="ID1412515317">
-          <posattr x="-19.500000"
-                   y="629.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`book</text>
-        </annot>
-      </arc>
       <arc id="ID1412537219"
            orientation="TtoP"
            order="1">
@@ -1944,8 +1374,8 @@ else 1`(client,book)</text>
         <transend idref="ID1412507818"/>
         <placeend idref="ID1412536372"/>
         <annot id="ID1412537220">
-          <posattr x="339.500000"
-                   y="406.000000"/>
+          <posattr x="352.000000"
+                   y="415.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -1955,9 +1385,9 @@ else 1`(client,book)</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">if Present(decision)
-then 1`(client,book)
-else empty</text>
+                version="4.0.1">if (mem available_books book)
+then empty
+else 1`(client,book)</text>
         </annot>
       </arc>
       <arc id="ID1412560300"
@@ -1992,51 +1422,6 @@ else empty</text>
                 version="4.0.1">1`book</text>
         </annot>
       </arc>
-      <arc id="ID1412579736"
-           orientation="PtoT"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412530835"/>
-        <placeend idref="ID1412327901"/>
-        <bendpoint id="ID1412583051"
-                   serial="1">
-          <posattr x="-788.000000"
-                   y="598.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-        </bendpoint>
-        <annot id="ID1412579737">
-          <posattr x="-798.000000"
-                   y="522.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`book</text>
-        </annot>
-      </arc>
       <arc id="ID1412591369"
            orientation="TtoP"
            order="1">
@@ -2055,8 +1440,8 @@ else empty</text>
         <transend idref="ID1412530835"/>
         <placeend idref="ID1412588530"/>
         <annot id="ID1412591370">
-          <posattr x="-733.000000"
-                   y="420.000000"/>
+          <posattr x="-586.000000"
+                   y="395.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2066,12 +1451,14 @@ else empty</text>
           <textattr colour="Black"
                     bold="false"/>
           <text tool="CPN Tools"
-                version="4.0.1">(client,book)</text>
+                version="4.0.1">if (mem available_books book)
+then 1`(client,book)
+else empty</text>
         </annot>
       </arc>
       <arc id="ID1412606183"
            orientation="PtoT"
-           order="1">
+           order="2">
         <posattr x="0.000000"
                  y="0.000000"/>
         <fillattr colour="White"
@@ -2087,8 +1474,8 @@ else empty</text>
         <transend idref="ID1412530835"/>
         <placeend idref="ID1412536372"/>
         <annot id="ID1412606184">
-          <posattr x="36.000000"
-                   y="326.000000"/>
+          <posattr x="22.000000"
+                   y="354.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2165,135 +1552,7 @@ else empty</text>
                 version="4.0.1">(client,book)</text>
         </annot>
       </arc>
-      <arc id="ID1412690298"
-           orientation="PtoT"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412680333"/>
-        <placeend idref="ID1412679688"/>
-        <annot id="ID1412690299">
-          <posattr x="-128.500000"
-                   y="170.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`client</text>
-        </annot>
-      </arc>
-      <arc id="ID1412690561"
-           orientation="PtoT"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412680333"/>
-        <placeend idref="ID1412679814"/>
-        <annot id="ID1412690562">
-          <posattr x="-77.000000"
-                   y="115.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">1`book</text>
-        </annot>
-      </arc>
-      <arc id="ID1412690827"
-           orientation="TtoP"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412680333"/>
-        <placeend idref="ID1412686756"/>
-        <annot id="ID1412690828">
-          <posattr x="-112.000000"
-                   y="26.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">(client, book)</text>
-        </annot>
-      </arc>
-      <arc id="ID1412691096"
-           orientation="PtoT"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412681817"/>
-        <placeend idref="ID1412686756"/>
-        <annot id="ID1412691097">
-          <posattr x="-112.000000"
-                   y="-124.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">(client, book)</text>
-        </annot>
-      </arc>
-      <arc id="ID1412691368"
+      <arc id="ID1412728451"
            orientation="PtoT"
            order="2">
         <posattr x="0.000000"
@@ -2308,11 +1567,11 @@ else empty</text>
                   bold="false"/>
         <arrowattr headsize="1.200000"
                    currentcyckle="2"/>
-        <transend idref="ID1412681817"/>
-        <placeend idref="ID1412679393"/>
-        <annot id="ID1412691369">
-          <posattr x="-384.000000"
-                   y="-136.000000"/>
+        <transend idref="ID1412507818"/>
+        <placeend idref="ID1412327901"/>
+        <annot id="ID1412728452">
+          <posattr x="-308.000000"
+                   y="690.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2325,7 +1584,7 @@ else empty</text>
                 version="4.0.1">available_books</text>
         </annot>
       </arc>
-      <arc id="ID1412691643"
+      <arc id="ID1412728568"
            orientation="TtoP"
            order="1">
         <posattr x="0.000000"
@@ -2340,79 +1599,11 @@ else empty</text>
                   bold="false"/>
         <arrowattr headsize="1.200000"
                    currentcyckle="2"/>
-        <transend idref="ID1412681817"/>
-        <placeend idref="ID1412683392"/>
-        <annot id="ID1412691644">
-          <posattr x="-12.000000"
-                   y="-271.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">if (mem available_books book)
-then empty
-else 1`(client,book)</text>
-        </annot>
-      </arc>
-      <arc id="ID1412691921"
-           orientation="TtoP"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412681817"/>
-        <placeend idref="ID1412683559"/>
-        <annot id="ID1412691922">
-          <posattr x="-288.000000"
-                   y="-270.000000"/>
-          <fillattr colour="White"
-                    pattern="Solid"
-                    filled="false"/>
-          <lineattr colour="Black"
-                    thick="0"
-                    type="Solid"/>
-          <textattr colour="Black"
-                    bold="false"/>
-          <text tool="CPN Tools"
-                version="4.0.1">if (mem available_books book)
-then 1`(client,book)
-else empty</text>
-        </annot>
-      </arc>
-      <arc id="ID1412715781"
-           orientation="TtoP"
-           order="1">
-        <posattr x="0.000000"
-                 y="0.000000"/>
-        <fillattr colour="White"
-                  pattern=""
-                  filled="false"/>
-        <lineattr colour="Black"
-                  thick="1"
-                  type="Solid"/>
-        <textattr colour="Black"
-                  bold="false"/>
-        <arrowattr headsize="1.200000"
-                   currentcyckle="2"/>
-        <transend idref="ID1412681817"/>
-        <placeend idref="ID1412679393"/>
-        <annot id="ID1412715782">
-          <posattr x="-308.000000"
-                   y="-53.000000"/>
+        <transend idref="ID1412507818"/>
+        <placeend idref="ID1412327901"/>
+        <annot id="ID1412728569">
+          <posattr x="21.000000"
+                   y="658.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
                     filled="false"/>
@@ -2425,6 +1616,196 @@ else empty</text>
                 version="4.0.1">if (mem available_books book)
 then rm book available_books
 else available_books</text>
+        </annot>
+      </arc>
+      <arc id="ID1412733262"
+           orientation="PtoT"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412530835"/>
+        <placeend idref="ID1412327901"/>
+        <bendpoint id="ID1412733444"
+                   serial="1">
+          <posattr x="-782.750000"
+                   y="756.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
+        <annot id="ID1412733263">
+          <posattr x="-728.000000"
+                   y="556.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">available_books</text>
+        </annot>
+      </arc>
+      <arc id="ID1412736064"
+           orientation="TtoP"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412530835"/>
+        <placeend idref="ID1412327901"/>
+        <bendpoint id="ID1412736288"
+                   serial="1">
+          <posattr x="-809.000000"
+                   y="798.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+        </bendpoint>
+        <annot id="ID1412736065">
+          <posattr x="-791.000000"
+                   y="647.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">if (mem available_books book)
+then rm book available_books
+else available_books</text>
+        </annot>
+      </arc>
+      <arc id="ID1412737441"
+           orientation="TtoP"
+           order="2">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412482300"/>
+        <placeend idref="ID1412327901"/>
+        <annot id="ID1412737442">
+          <posattr x="-392.000000"
+                   y="849.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">book::available_books</text>
+        </annot>
+      </arc>
+      <arc id="ID1412740790"
+           orientation="PtoT"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412482300"/>
+        <placeend idref="ID1412327901"/>
+        <annot id="ID1412740791">
+          <posattr x="-389.000000"
+                   y="885.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">available_books</text>
+        </annot>
+      </arc>
+      <arc id="ID1412745922"
+           orientation="TtoP"
+           order="1">
+        <posattr x="0.000000"
+                 y="0.000000"/>
+        <fillattr colour="White"
+                  pattern=""
+                  filled="false"/>
+        <lineattr colour="Black"
+                  thick="1"
+                  type="Solid"/>
+        <textattr colour="Black"
+                  bold="false"/>
+        <arrowattr headsize="1.200000"
+                   currentcyckle="2"/>
+        <transend idref="ID1412530835"/>
+        <placeend idref="ID1412536372"/>
+        <annot id="ID1412745923">
+          <posattr x="-256.000000"
+                   y="304.000000"/>
+          <fillattr colour="White"
+                    pattern="Solid"
+                    filled="false"/>
+          <lineattr colour="Black"
+                    thick="0"
+                    type="Solid"/>
+          <textattr colour="Black"
+                    bold="false"/>
+          <text tool="CPN Tools"
+                version="4.0.1">if (mem available_books book)
+then empty
+else 1`(client,book)</text>
         </annot>
       </arc>
       <constraints/>
@@ -2454,6 +1835,21 @@ else available_books</text>
           <text>&lt;same as model&gt;</text>
         </value>
       </option>
+      <option name="extensions.10011.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
+      <option name="extensions.10008.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
+      <option name="extensions.10004.enable">
+        <value>
+          <boolean>true</boolean>
+        </value>
+      </option>
       <option name="extensions.10003.enable">
         <value>
           <boolean>true</boolean>
@@ -2464,17 +1860,12 @@ else available_books</text>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10008.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
       <option name="extensions.10006.enable">
         <value>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10001.enable">
+      <option name="extensions.10007.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -2484,17 +1875,7 @@ else available_books</text>
           <boolean>true</boolean>
         </value>
       </option>
-      <option name="extensions.10011.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
-      <option name="extensions.10004.enable">
-        <value>
-          <boolean>true</boolean>
-        </value>
-      </option>
-      <option name="extensions.10007.enable">
+      <option name="extensions.10001.enable">
         <value>
           <boolean>true</boolean>
         </value>
@@ -2707,14 +2088,14 @@ else available_books</text>
     </options>
     <binders>
       <cpnbinder id="ID1412328070"
-                 x="334"
-                 y="20"
+                 x="359"
+                 y="27"
                  width="1188"
                  height="755">
         <sheets>
           <cpnsheet id="ID2215"
-                    panx="64.000000"
-                    pany="-64.000000"
+                    panx="226.250000"
+                    pany="615.000000"
                     zoom="1.000000"
                     instance="ID2149">
             <zorder>
